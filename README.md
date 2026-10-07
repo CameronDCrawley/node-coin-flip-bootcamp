@@ -1,4 +1,5 @@
 **Medusa Coin Flip**
+
 Call it in the air. Pick heads or tails, hit the button, and my server flips a Medusa coin for you. You hear the flip, you see which side it landed on, and you find out if you won or lost.
 
  **How to Play**
