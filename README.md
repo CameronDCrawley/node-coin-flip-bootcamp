@@ -34,7 +34,6 @@ Node.js
 JavaScript
 HTML
 CSS
-Medusa Coin Flip screenshot
 
 
 <img width="2880" height="1541" alt="image" src="https://github.com/user-attachments/assets/d1ca3a38-38b1-48b7-aa7a-cf190ea55057" />
