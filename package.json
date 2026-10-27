@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node flip.js"
+    "start":"node server.js"
   },
   "dependencies": {
     "start": "^5.1.0"
